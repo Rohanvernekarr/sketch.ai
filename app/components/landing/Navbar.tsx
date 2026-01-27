@@ -121,12 +121,6 @@ export const Navbar: React.FC = () => {
               >
                 Log In
               </button>
-              {/* <button
-              onClick={() => openAuthModal("signup")}
-              className="px-6 py-2 rounded text-black bg-zinc-200 hover:bg-zinc-300 transition font-semibold"
-            >
-              Sign Up
-            </button> */}
             </div>
           )}
         </div>
@@ -198,12 +192,6 @@ export const Navbar: React.FC = () => {
                 >
                   Log In
                 </button>
-                {/* <button
-                onClick={() => openAuthModal("signup")}
-                className="px-6 py-2 rounded text-black bg-zinc-200 hover:bg-zinc-300 transition font-semibold text-center"
-              >
-                Sign Up
-              </button> */}
               </>
             )}
           </div>
