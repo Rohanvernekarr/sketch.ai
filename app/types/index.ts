@@ -52,8 +52,6 @@ export interface TextElement {
   fontWeight: string;
   isEditing?: boolean;
 }
-
-// Freehand drawing stroke
 export interface FreehandStroke {
   id: string;
   points: Point[];
